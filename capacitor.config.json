@@ -1,0 +1,6 @@
+{
+  "appId": "com.astro.zodiacwheel",
+  "appName": "Zodiac Wheel",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
